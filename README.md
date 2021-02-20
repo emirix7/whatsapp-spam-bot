@@ -14,5 +14,10 @@
 // Windows --> cmd > pip install selenium
 // Linux   --> terminal > pip install selenium
 
+
+// Terminate to script command // Kodu kapatmak için
+
+// Ctrl + C
+
           Thanks for reading // Okuduğunuz için teşşekür ederim
                                     -emirix7
