@@ -19,5 +19,8 @@
 
 // Ctrl + C
 
+// Kaynak kodundan kullanmak istedğiniz tarayıcıyı değiştirebilirsiniz. // Change the browser you want to use from the source code.
+
+
           Thanks for reading // Okuduğunuz için teşşekür ederim
                                     -emirix7
