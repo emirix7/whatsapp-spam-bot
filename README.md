@@ -19,7 +19,7 @@
 
 // Ctrl + C
 
-// Kaynak kodundan kullanmak istedğiniz tarayıcıyı değiştirebilirsiniz. // Change the browser you want to use from the source code.
+// Kaynak kodundaki 13. satırdan kullanmak istedeğiniz tarayıcıyı değiştirebilirsiniz. // In line 13. you can change the browser you want to use.
 
 
           Thanks for reading // Okuduğunuz için teşşekür ederim
