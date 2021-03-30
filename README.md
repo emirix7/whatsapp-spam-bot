@@ -1,26 +1,26 @@
-// Run the code // Kodu çalıştırmak için
+// Kodu çalıştırmak için
 
 // python3 "spambot.py"
 
 // Kodun sağlıklı bir biçimde çalışması için lütfen Selenium kütüphanesini kurun
-// Please install selenium for the code to work properly
+
 
 // Bunları çalıştırabilmek için Python ve pip'in bilgisayarda kurulu olması gerekiyor
-// Python and pip need to be installed for these command to run
 
 
-// Selenium kurmak için // Download Selenium
+
+// Selenium kurmak için 
 
 // Windows --> cmd > pip install selenium
 // Linux   --> terminal > pip install selenium
 
 
-// Terminate to script command // Kodu kapatmak için
+// Kodu kapatmak için
 
 // Ctrl + C
 
-// Kaynak kodundaki 13. satırdan kullanmak istedeğiniz tarayıcıyı değiştirebilirsiniz. // In line 13. you can change the browser you want to use.
+// Kaynak kodundaki 13. satırdan kullanmak istedeğiniz tarayıcıyı değiştirebilirsiniz.
 
 
-          Thanks for reading // Okuduğunuz için teşşekür ederim
+          Okuduğunuz için teşşekürler
                                     -emirix7
