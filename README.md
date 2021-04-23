@@ -6,7 +6,7 @@
 
 
 // Bunları çalıştırabilmek için Python ve pip'in bilgisayarda kurulu olması gerekiyor
-
+// Firefox un kurulu olması gerekiyor
 
 
 // Selenium kurmak için 
@@ -18,8 +18,6 @@
 // Kodu kapatmak için
 
 // Ctrl + C
-
-// Kaynak kodundaki 13. satırdan kullanmak istedeğiniz tarayıcıyı değiştirebilirsiniz.
 
 
           Okuduğunuz için teşşekürler
